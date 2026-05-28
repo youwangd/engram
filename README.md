@@ -6,7 +6,7 @@ Source code, benchmarks, and reproduce scripts for:
 > Youwang Deng. arXiv preprint, ID forthcoming.
 > [`paper/dist/engram_v0.2_arxiv.pdf`](paper/dist/engram_v0.2_arxiv.pdf)
 
-Engram is the open-source agent-memory testbed on which the paper's evaluation protocol is exercised. It is **the artifact through which we run the experiments and which we release for reproducibility — it is not itself the contribution of the paper.** The contribution is the entity-collision evaluation protocol and the two-axis empirical finding it surfaces (intro §1, methods §3.2–3.3 of the paper).
+The paper's contribution is the entity-collision evaluation protocol and the two-axis empirical finding it surfaces (§1, §3.2–3.3). Engram is the testbed on which that protocol is exercised, released here for reproducibility.
 
 ## Paper artifacts
 
