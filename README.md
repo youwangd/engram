@@ -1,5 +1,7 @@
 # Engram
 
+[![arXiv](https://img.shields.io/badge/arXiv-2605.29630-b31b1b.svg)](https://arxiv.org/abs/2605.29630)
+
 Source code, benchmarks, and reproduce scripts for:
 
 > **Entity-Collision: A Stratified Protocol for Attributing Retrieval Lift in Agent Memory**

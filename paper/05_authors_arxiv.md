@@ -19,6 +19,6 @@ Keep this file under 1KB; arXiv title-page real estate is precious.
 
 GitHub: `https://github.com/youwangd/engram` (Apache 2.0) — code, benchmarks, and the 37 reproduce scripts referenced in §3.8 / §A6.
 
-arXiv: this preprint. Cite as `arXiv:XXXX.XXXXX` (replace at submission time).
+arXiv: [`arXiv:2605.29630`](https://arxiv.org/abs/2605.29630).
 
 </div>
