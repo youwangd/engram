@@ -3,8 +3,8 @@
 Source code, benchmarks, and reproduce scripts for:
 
 > **Entity-Collision: A Stratified Protocol for Attributing Retrieval Lift in Agent Memory**
-> Youwang Deng. arXiv preprint, ID forthcoming.
-> [`paper/dist/engram_v0.2_arxiv.pdf`](paper/dist/engram_v0.2_arxiv.pdf)
+> Youwang Deng. arXiv:2605.29630, 2026.
+> [arXiv](https://arxiv.org/abs/2605.29630) · [PDF](https://arxiv.org/pdf/2605.29630) · [`paper/dist/engram_v0.2_arxiv.pdf`](paper/dist/engram_v0.2_arxiv.pdf)
 
 The paper's contribution is the entity-collision evaluation protocol and the two-axis empirical finding it surfaces (§1, §3.2–3.3). Engram is the testbed on which that protocol is exercised, released here for reproducibility.
 
@@ -74,8 +74,10 @@ Requires Python ≥ 3.10. Optional extras:
   title={Entity-Collision: A Stratified Protocol for Attributing Retrieval Lift in Agent Memory},
   author={Deng, Youwang},
   year={2026},
-  note={arXiv preprint, ID forthcoming},
-  url={https://github.com/youwangd/engram}
+  eprint={2605.29630},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL},
+  url={https://arxiv.org/abs/2605.29630}
 }
 ```
 
